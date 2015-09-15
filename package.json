@@ -1,0 +1,28 @@
+{
+  "name": "escape-util",
+  "version": "0.0.1",
+  "description": "a tool for escaping and unscaping html enties",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodson/escape-util.git"
+  },
+  "keywords": [
+    "escape",
+    "util",
+    "html"
+  ],
+  "author": "rodson <rodsonluo@gmail.com> (http://www.rodsonluo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodson/escape-util/issues"
+  },
+  "homepage": "https://github.com/rodson/escape-util#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
