@@ -5,7 +5,7 @@ var should = require('chai').should(),
 
 describe('#escape', function() {
   it('converts & into &amp;', function(){
-    escape('&').should.equal('ff&amp;');
+    escape('&').should.equal('&amp;');
   });
 
   it('converts " into &quot;', function(){
